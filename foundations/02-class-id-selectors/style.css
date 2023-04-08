@@ -1,0 +1,25 @@
+/* styles.css */
+
+.odd {
+    background-color: #fa8484;
+    font-family: Verdana, 'DejaVu sans', sans-serif;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#four {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odd#three {
+    font-size: 24px;
+}
+
+#two, #four {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
